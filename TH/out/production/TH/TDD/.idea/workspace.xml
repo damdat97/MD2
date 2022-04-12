@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15c34ef3-c5eb-43ef-885d-8813e8c76d22" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../BT/src/TDD/PhanLoaiTamGiac/TriangleClassifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TimGiaTriTuyetDoi/AbsoluteNumberCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TimGiaTriTuyetDoi/AbsoluteNumberCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/Fan/Fan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/Fan/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/QuadraticEquation/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/QuadraticEquation/QuadraticEquation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/StopWatch/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/StopWatch/StopWatch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/chuyendoitien.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/circle/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/circle/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/circlecylinder/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/circlecylinder/CircleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/circlecylinder/Cyclinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/circlecylinder/CyclinderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/classtriangle/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/classtriangle/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/classtriangle/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/colorable/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/colorable/Colorable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/colorable/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/colorable/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/colorable/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/colorable/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/demsolanxuathienkytutrongchuoi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/docsothanhchu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/docsothanhchu2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/gopmang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/hienthi20snt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/hienthicacloaihinh.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/hinhhoc/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/hinhhoc/ResizeAble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/hinhhoc/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/hinhhoc/circle/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/hinhhoc/rectangle/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/hinhhoc/shape/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/loichao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/point/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/point/Point2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/point/Point3D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/pointmoveable/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/pointmoveable/MoveAblePoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/pointmoveable/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/refactoringtennis/TennisGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/refactoringtennis/TennisTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/sntnhohon100.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/themphantuvaomang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/themphantuvaomang2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/timphantulonnhatmang2chieu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/timphantunhonhattrongmang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/tinhtongcacsoduongcheo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/tinhtongcacsoomotcotxacdinh.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/out/production/BT/xoaphantukhoimang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/src/cleancode/refactoringtennis/TennisGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BT/src/cleancode/refactoringtennis/TennisGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/src/dsa_danhsach/trienkhiaphuongthucarraylist/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BT/src/dsa_danhsach/trienkhiaphuongthucarraylist/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT/src/dsa_danhsach/trienkhiaphuongthucarraylist/TestMyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../BT/src/dsa_danhsach/trienkhiaphuongthucarraylist/TestMyList.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="27gILSQSWuKCSjWILyD0nwF2KNW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../BT" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15c34ef3-c5eb-43ef-885d-8813e8c76d22" name="Changes" comment="" />
+      <created>1649735246176</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649735246176</updated>
+      <workItem from="1649735247357" duration="37000" />
+      <workItem from="1649735316181" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
