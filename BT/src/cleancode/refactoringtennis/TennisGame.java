@@ -57,8 +57,7 @@ public class TennisGame {
                     score += MINUS;
                     tempScore = scoreOfPlayer2;
                 }
-                switch(tempScore)
-                {
+                switch(tempScore) {
                     case 0:
                         score += "Love";
                         break;
