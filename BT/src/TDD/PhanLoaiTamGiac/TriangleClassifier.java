@@ -13,7 +13,15 @@ public class TriangleClassifier implements Triangle{
         this.side2 = side2;
         this.side3 = side3;
     }
-
+    @Override
+    public String scaleneTriangle() {
+        if (side1 + side2 > side3 && side1 + side3 > side2 && side2 + side3 > side1) {
+            result = "Tam giac thuong";
+        } else {
+            result = "Khong phai tam giac";
+        }
+        return result;
+    }
     @Override
     public String equiangularTriangle() {
         if (side1 == side2 && side1 == side3) {
@@ -30,13 +38,5 @@ public class TriangleClassifier implements Triangle{
         return result;
     }
 
-    @Override
-    public String scaleneTriangle() {
-        if (side1 + side2 > side3 && side1 + side3 > side2 && side2 + side3 > side1) {
-            result = "Tam giac thuong";
-        } else {
-            result = "Khong phai tam giac";
-        }
-        return result;
-    }
+
 }

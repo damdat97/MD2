@@ -48,8 +48,8 @@ public class MoveAblePoint extends Point {
     }
 
     public MoveAblePoint move(){
-        super.setX(getX()+getXSpeed());
-        super.setY(getY()+getYSpeed());
+        setX(getX()+getXSpeed());
+        setY(getY()+getYSpeed());
         return this;
     }
 

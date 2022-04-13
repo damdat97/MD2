@@ -3,7 +3,7 @@ package dsa_danhsach.trienkhiaphuongthucarraylist;
 public class TestMyList {
     public static void main(String[] args) {
         //Constructor
-        MyList<Integer> myList = new MyList<Integer>(9);
+        MyList<Integer> myList = new MyList <Integer>(9);
 
         //Add values
         myList.add(1);
@@ -45,7 +45,28 @@ public class TestMyList {
         myList.add(7, 15);
         System.out.println("myList after a values: ");
         for (int i = 0; i < myList.size(); i++) {
-
+            System.out.print(myList.get(i) + "\t");
         }
+        System.out.println();
+
+        //get myList
+        System.out.print("Get value at 4th index: " + myList.get(4) + "\n");
+
+        //ensureCapacity myList
+        myList.ensureCapacity(11);
+        myList.add(20);
+        myList.add(30);
+        myList.add(40);
+        System.out.print("Size of myList: " + myList.size() + "\n");
+
+        //clear myList
+        myList.clear();
+        System.out.print("myList after use clear method: ");
+        for (int i = 0; i < myList.size(); i++) {
+            System.out.print(myList.get(i) + "\t");
+        }
+        System.out.println();
+
+
     }
 }
