@@ -2,7 +2,7 @@ package dsa_stackqueue.daonguocphantu;
 
 import java.util.Stack;
 
-public class A {
+public class MyStack {
     public static void main(String[] args) {
         //Dao nguoc so nguyen
         Stack<Integer> number = new Stack<Integer>();
