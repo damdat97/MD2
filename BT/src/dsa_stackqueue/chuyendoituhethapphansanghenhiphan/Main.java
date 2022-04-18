@@ -4,15 +4,15 @@ import java.util.Stack;
 
 public class Main {
     public static void main(String[] args) {
-        int number = 25;
+        int numbers = 25;
         int temp;
         Stack<Integer> stack = new Stack<>();
-        System.out.print("Before: " + number);
+        System.out.print("Before: " + numbers);
         System.out.print("\nAfter: ");
-        while (number != 0) {
-            temp = number % 2;
+        while (numbers != 0) {
+            temp = numbers % 2;
             stack.push(temp);
-            number = number / 2;
+            numbers = numbers / 2;
         }
         while (!stack.isEmpty()){
             System.out.print(stack.pop());
