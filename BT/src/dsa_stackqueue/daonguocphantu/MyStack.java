@@ -21,7 +21,7 @@ public class MyStack {
         }
 
         //dao nguoc chuoi
-        String first = "hello";
+        String first = "xinchao";
         Stack<Character> string = new Stack<>();
         System.out.print("\nBefore: " + first);
         for (int i = 0; i < first.length(); i++) {
