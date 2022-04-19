@@ -27,12 +27,12 @@ public class Main {
             }
         }
 
-        System.out.println("Male: ");
+        System.out.println("--Male: ");
         while (male.getTail() != null){
             System.out.print(male.deQueue());
         }
 
-        System.out.println("Female: ");
+        System.out.println("--Female: ");
         while (female.getTail() != null){
             System.out.print(female.deQueue());
         }

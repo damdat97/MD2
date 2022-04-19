@@ -31,6 +31,7 @@ public class MyStack {
         while (!string.isEmpty()) {
             System.out.print(string.pop());
         }
+
     }
 }
 
