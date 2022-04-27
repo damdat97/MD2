@@ -10,7 +10,7 @@ public class SanPhamFile {
     private static final String TEN_FILE_SANPHAM = "D:\\MD2\\BT\\src\\io_binary\\sanpham.txt";
 
     //Ghi list san pham
-    public void write(List<SanPham> sanPhamList) throws IOException {
+    public void write(List<SanPham> sanPhamList) {
         FileOutputStream fos = null;
         ObjectOutputStream oos = null;
         try {
@@ -27,7 +27,7 @@ public class SanPhamFile {
 
 
     //Doc list san pham
-    public List<SanPham> read() throws IOException {
+    public List<SanPham> read() {
         List<SanPham> sanPhamList = new ArrayList<>();
         FileInputStream fis = null;
         ObjectInputStream ois = null;
